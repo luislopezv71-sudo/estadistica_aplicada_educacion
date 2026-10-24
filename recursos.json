@@ -1,7 +1,7 @@
 {
   "clase_01": {
     "video": {"titulo": "Video: de un problema educativo a las variables", "url": "", "nota": "Coloque aquí la URL pública de YouTube, Google Drive o NotebookLM (si admite inserción)."},
-    "audio": {"titulo": "Audio: fundamentos y errores comunes", "url": "", "nota": "Puede usar un enlace público o archivo MP3 alojado en el repositorio."},
+    "audio": {"titulo": "Audio: fundamentos y errores comunes", "url": "https://notebook.google.com/notebook/7961dda3-2698-4839-b5b0-dc193abe0e27/artifact/03fc7148-77e7-451f-ad83-0c7ab93792c3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_", "nota": "Puede usar un enlace público o archivo MP3 alojado en el repositorio."},
     "infografia": {"titulo": "Infografía: población, muestra y variables", "url": "", "nota": "Admite enlace a imagen PNG/JPG/PDF o recurso publicado."},
     "tarjetas": {"titulo": "Tarjetas didácticas de repaso", "url": "", "nota": "Pegue el enlace compartido de NotebookLM o un archivo de recursos."}
   }
