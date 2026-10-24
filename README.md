@@ -1,5 +1,8 @@
 # Estadística Aplicada a la Educación — Maestría
 
+**Universidad William Osler**  
+**Catedrático: Luis Arturo López Vergara**
+
 Plataforma HTML/CSS/JavaScript estática para **7 clases síncronas de 90 minutos**. La primera clase incluye teoría, caso, laboratorio Excel/jamovi, autoevaluación y avance local. Clases 02–07 están señaladas como pendientes, sin contenidos ficticiamente completados.
 
 ## Publicación con GitHub Pages
