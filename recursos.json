@@ -1,68 +1,24 @@
 {
-  "clase_01": {
+  "clase_04": {
     "video": {
-      "titulo": "Video: de un problema educativo a las variables",
-      "url": "https://drive.google.com/file/d/1MamNvpCYluRo0-ZzXUoFCz6-Edv2o9GG/view?usp=sharing",
-      "nota": "Video de la primera clase."
+      "titulo": "Video: intervalos de confianza y estimación",
+      "url": "",
+      "nota": "Video de 8–10 minutos preparado en NotebookLM."
     },
     "audio": {
-      "titulo": "Audio: fundamentos y errores comunes",
-      "url": "https://notebook.google.com/notebook/7961dda3-2698-4839-b5b0-dc193abe0e27/artifact/03fc7148-77e7-451f-ad83-0c7ab93792c3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Audio de la primera clase."
+      "titulo": "Audio: errores tipo I, tipo II y valor p",
+      "url": "",
+      "nota": "Debate académico 10–12 minutos en español latinoamericano."
     },
     "infografia": {
-      "titulo": "Infografía: población, muestra y variables",
-      "url": "https://drive.google.com/file/d/1Q-58nlZnp8CF-75Sgl0ragWh-hO5gpzw/view?usp=sharing",
-      "nota": "Infografía de la primera clase."
+      "titulo": "Infografía: del dato a la inferencia",
+      "url": "",
+      "nota": "Fórmulas y ruta de decisión estadística."
     },
     "tarjetas": {
-      "titulo": "Tarjetas didácticas de repaso",
-      "url": "https://notebook.google.com/notebook/7961dda3-2698-4839-b5b0-dc193abe0e27/artifact/763f452c-535a-4273-8da1-251ab0c2105e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Tarjetas de la primera clase."
-    }
-  },
-  "clase_02": {
-    "video": {
-      "titulo": "Video: medidas de tendencia central y dispersión",
-      "url": "https://drive.google.com/file/d/1jSN6DjIKjLABxR6lvBCO_MzLa5wGtTEL/view?usp=sharing",
-      "nota": "Video de 8 a 10 minutos; presentar dos grupos con igual media."
-    },
-    "audio": {
-      "titulo": "Audio: análisis crítico del rendimiento escolar",
-      "url": "https://notebook.google.com/notebook/a2cc8eb7-1588-4cc4-af51-62febb35ac0f/artifact/6a82d26d-2b0e-4646-8cfc-24e6894d5b77?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Diálogo de 10 minutos sobre dispersión y decisiones educativas."
-    },
-    "infografia": {
-      "titulo": "Infografía: selección de estadísticos y gráficas",
-      "url": "https://drive.google.com/file/d/17mKcXHCl7cs2w0hGmQ32WjPTOJeF1bpB/view?usp=sharing",
-      "nota": "Mapa de media, mediana, moda, rango, RIC y desviación estándar."
-    },
-    "tarjetas": {
-      "titulo": "Tarjetas: estadística descriptiva",
-      "url": "https://notebook.google.com/notebook/a2cc8eb7-1588-4cc4-af51-62febb35ac0f/artifact/1ac480a1-b006-41f1-a20a-9182a2e33210?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Tarjetas con conceptos, fórmulas y aplicaciones docentes."
-    }
-  },
-  "clase_03": {
-    "video": {
-      "titulo": "Video: probabilidad, puntuación Z y muestreo educativo",
-      "url": "https://drive.google.com/file/d/1Ea9KLGNGtiKTS8UUrXUThUHPONmuKaAr/view?usp=sharing",
-      "nota": "Pendiente: pegar vínculo de video generado en NotebookLM o Drive."
-    },
-    "audio": {
-      "titulo": "Audio: errores de muestreo y sesgo de selección",
-      "url": "https://notebook.google.com/notebook/e98c322d-b9b3-43e2-8490-840d0e505546/artifact/a29423ab-1eca-4c28-b4e7-36f04c8f28c0?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Pendiente: pegar vínculo compartido del audio de NotebookLM."
-    },
-    "infografia": {
-      "titulo": "Infografía: distribución normal, muestreo y tamaño de muestra",
-      "url": "https://drive.google.com/file/d/1vmCZH2z0nVf9gc3J7DT92GZfMt0yb0QK/view?usp=sharing",
-      "nota": "Pendiente: pegar enlace público de infografía."
-    },
-    "tarjetas": {
-      "titulo": "Tarjetas didácticas: probabilidad y muestreo",
-      "url": "https://notebook.google.com/notebook/e98c322d-b9b3-43e2-8490-840d0e505546/artifact/4d093072-3e5e-43a5-9b6e-03a4b2e89574?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
-      "nota": "Pendiente: pegar enlace compartido de NotebookLM."
+      "titulo": "Tarjetas: conceptos de inferencia",
+      "url": "",
+      "nota": "18 tarjetas de conceptos y ejemplos."
     }
   }
 }
